@@ -65,7 +65,7 @@
     "styled-components": "^6.0.5",
     "traceroute": "^1.0.0",
     "typescript": "^5.1.6",
-    "unzipper": "^0.10.14",
+    "unzipper": "^0.12.1",
     "wappalyzer": "^6.10.65",
     "web-vitals": "^3.4.0",
     "xml2js": "^0.6.2"
